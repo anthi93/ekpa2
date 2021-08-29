@@ -1,0 +1,26 @@
+body{background-color: aqua;
+color: azure;
+}
+.home{background-color:white ;
+    color: gray;
+height: 300px;
+}
+.education{background-color: white;
+color: gray;
+height: 300px;
+}
+.university{background-color: white;
+color: gray;
+height: 300px;
+}
+.button1{
+    background: hotpink;
+    background: linear-gradient(pink ,blue);
+    border-radius: 50px;
+    padding: 8px 20px;
+    color: rebeccapurple;
+    display: inline-block;
+    font: normal bold 24px/1 "Calibri" , "sans-serif";
+    text-align: center;
+    text-shadow: 1px 1px black;
+}
